@@ -1,0 +1,8 @@
+E:\other\_university\EPAM\EPAM.BSU.01.2016.Kravchenia.01\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\other\_university\EPAM\EPAM.BSU.01.2016.Kravchenia.01\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\other\_university\EPAM\EPAM.BSU.01.2016.Kravchenia.01\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\other\_university\EPAM\EPAM.BSU.01.2016.Kravchenia.01\ConsoleUI\bin\Debug\Task1.dll
+E:\other\_university\EPAM\EPAM.BSU.01.2016.Kravchenia.01\ConsoleUI\bin\Debug\Task1.pdb
+E:\other\_university\EPAM\EPAM.BSU.01.2016.Kravchenia.01\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+E:\other\_university\EPAM\EPAM.BSU.01.2016.Kravchenia.01\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\other\_university\EPAM\EPAM.BSU.01.2016.Kravchenia.01\ConsoleUI\obj\Debug\ConsoleUI.pdb
