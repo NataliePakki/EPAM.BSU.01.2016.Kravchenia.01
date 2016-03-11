@@ -2,7 +2,7 @@
 
 namespace Task1{
     public static class Calculator{
-        public static double RootNewtonMethod(double number, int n, double eps){
+        public static double RootNewtonMethod(int number, int n, double eps){
             if (number < 0 || n < 0)
                 return Double.NaN;
             double xk1 = number / n;
